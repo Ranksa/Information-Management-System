@@ -1,0 +1,11 @@
+com\xaomi\sm\service\Impl\DepartmentServiceImpl.class
+com\xaomi\sm\dao\DepartmentDao.class
+com\xaomi\sm\entity\Staff.class
+com\xaomi\sm\service\SelfService.class
+com\xaomi\sm\dao\StaffDao.class
+com\xaomi\sm\service\Impl\SelfServiceImpl.class
+com\xaomi\sm\service\Impl\StaffServiceImpl.class
+com\xaomi\sm\dao\SelfDao.class
+com\xaomi\sm\entity\Department.class
+com\xaomi\sm\service\DepartmentService.class
+com\xaomi\sm\service\StaffService.class
